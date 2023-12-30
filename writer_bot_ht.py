@@ -1,14 +1,3 @@
-'''
-
-File: writer_bot_ht.py
-Author: Randall Candaso
-Course/Section: CSC 120-002
-Description: Program takes a file of text and creates a
-hash table that will be used to generate automated text
-based off the first n number of words.
-
-'''
-
 import random
 import sys
 
